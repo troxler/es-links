@@ -34,8 +34,7 @@ See [How to Read the ECMAScript Specification](https://timothygu.me/es-howto/).
 
 - [TC39 Process](https://tc39.es/process-document/)
 - [TC39 Meeting Agendas](https://github.com/tc39/agendas/)
-- [TC39 Meeting Notes](https://tc39.es/tc39-notes/)
-  - [Repository](https://github.com/tc39/tc39-notes/)
+- [TC39 Meeting Notes](https://github.com/tc39/notes)
 - [Proposals](https://github.com/tc39/proposals)
   - [Stage 0: Strawperson](https://github.com/tc39/proposals/blob/master/stage-0-proposals.md)
   - [Stage 1: Proposal](https://github.com/tc39/proposals/blob/master/stage-1-proposals.md)
