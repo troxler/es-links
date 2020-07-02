@@ -16,6 +16,7 @@ This is a collection of the most important resources regarding ECMAScript.
 
 See [How to Read the ECMAScript Specification](https://timothygu.me/es-howto/).
 
+- [ECMAScript 2020 Language Specification (11<sup>th</sup> Edition, ES2020)](https://www.ecma-international.org/ecma-262/11.0/index.html)
 - [ECMAScript 2019 Language Specification (10<sup>th</sup> Edition, ES2019)](https://www.ecma-international.org/ecma-262/10.0/index.html)
 - [ECMAScript 2018 Language Specification (9<sup>th</sup> Edition, ES2018)](https://www.ecma-international.org/ecma-262/9.0/index.html)
 - [ECMAScript 2017 Language Specification (8<sup>th</sup> Edition, ES2017)](https://www.ecma-international.org/ecma-262/8.0/index.html)
